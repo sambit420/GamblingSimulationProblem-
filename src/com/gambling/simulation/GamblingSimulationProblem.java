@@ -8,7 +8,7 @@ import java.util.Random;
 
 public class GamblingSimulationProblem {
     //Default Constructor
-    public GamblingSimulationProblem() {
+    public GamblingSimulationProblem() {git
         System.out.println("Welcome to Gambling Simulation Program");
         System.out.println();
         System.out.println("Gambler starts the game...");
